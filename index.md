@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<img src="headshot_crogers_202010.jpg" width="30%">
-
 #### Biosketch
 
 Christine Rogers is a Research Project Officer at the McGill Centre of Integrative Neuroscience ([MCIN](http://mcin.ca)) at the Montreal Neurological Institute. She serves as the Lead of several open-source neuroinformatics initiatives with the [LORIS open database](http:/LORIS.ca) team, and currently contributes expertise to the management of the [Global Brain Consortium](http://globalbrainconsortium.org) and [EEGNet](http://EEGNet.org), a Canadian-funded initiative to build gold-standard open annotated datasets and processing workflows in electrophysiology for applications in global health. Her open science leadership roles have included platforms and initiatives such as the [MNI Open iEEG Atlas](https://mni-open-ieegatlas.research.mcgill.ca), the Open Sleep Atlas, and more.
