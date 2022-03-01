@@ -12,4 +12,4 @@ Her technical work has largely focused on integration of data workflows and moda
 Her experience includes over 20 years in software - over 15 years in research software and 10 years in open-source, in addition to 5 years in industry. Her academic and technical background includes neuroimaging, computational linguistics, machine learning, and aerospace. 
 
 She has mentored 6 times for Google Summer of Code and Season of Docs programs for open-source software projects. 
-Most recently, she has taken on the Global Brain Consortium remote events leadership and execution, and was an invited presenter and mentor at the Neuro's Open Science in Action 2020 conference. 
+Most recently, she has taken on the Global Brain Consortium remote events leadership and execution. She was an invited presenter and mentor at the Neuro's Open Science in Action 2020 conference, and particpated in the 2020 OpenLifeSci cohort.  Past event organization includes Machine Learning workshops, neuroinformatics conference events, and community engagement.
