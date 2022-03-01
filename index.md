@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile](headshot_crogers_202010.jpg)
+<img src="headshot_crogers_202010.jpg" width="30%">
 
 #### Biosketch
 
