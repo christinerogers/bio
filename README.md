@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Main Page](https://christinerogers.github.io/bio)
-
 ![Profile](/assets/headshot_crogers_202010.jpg)
 
 #### Biosketch
