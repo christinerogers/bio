@@ -8,5 +8,5 @@ Christine Rogers is a Research Project Officer at the McGill Centre of Integrati
 Her technical work has largely focused on integration of data workflows and modalities for genomics and electrophysiology into online data platforms for remote collaboration, in domains such as autism, epilepsy, stroke, and more. 
 Her experience includes over 20 years in software - over 15 years in research software and 10 years in open-source, in addition to 5 years in industry. Her academic and technical background includes neuroimaging, computational linguistics, machine learning, and aerospace. 
 
-She has mentored 6 times for Google Summer of Code and Season of Docs programs for open-source software projects. 
+She has mentored 6 times for Google Summer of Code and Season of Docs programs for open-source software projects, with the International Neuroinformatics Coordinating Facility ([INCF](https://incf.org)). 
 Most recently, she has taken on the Global Brain Consortium remote events leadership and execution, and was an invited presenter and mentor at the Neuro's Open Science in Action 2020 conference. 
