@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
-title: Christine Rogers biosketch
+logo: /headshot_crogers_202010.jpg
+title: Christine Rogers - biosketch
 description: Research Project Officer, Montreal Neurological Institute, McGill University, Canada
 plugins:
     - jemoj
