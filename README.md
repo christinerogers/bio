@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile](/assets/headshot_crogers_202010.jpg)
+![Profile](headshot_crogers_202010.jpg)
 
 #### Biosketch
 
